@@ -1,4 +1,4 @@
-# Json creator from Intents Csv file:
+# Create Json from a csv formatted intents file:
 Follow below instructions to create json files from csv
 
 1. Collect your intents in a csv named 'intents.csv' with columns 'IntentName', 'TrainingPhrase' and 'Response'.
